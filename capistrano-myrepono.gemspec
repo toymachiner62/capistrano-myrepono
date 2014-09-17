@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description = "A set of tasks for setting up and configuring (http://myrepono.com/)[myrepono] for your rails project"
   s.authors     = ["Tom Caflisch"]
   s.email       = 'tomcaflisch@gmail.com'
-  s.files       = ["lib/capistrano_myrepono.rb"]
+  s.files       = ["lib/capistrano-myrepono.rb"]
   s.homepage    = 'http://rubygems.org/gems/capistrano-myrepono'
   s.license     = 'MIT'
 end
