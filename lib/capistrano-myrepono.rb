@@ -1,5 +1,2 @@
-class CapistranoMyrepono
-  def self.hi
-    puts "Hello World"
-  end
-end
+require "capistrano"
+require File.expand_path("#{File.dirname(__FILE__)}/capistrano-myrepono")
